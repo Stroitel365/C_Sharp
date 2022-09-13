@@ -1,0 +1,15 @@
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\bin\Debug\net6.0\Example001_HElloConsole.exe
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\bin\Debug\net6.0\Example001_HElloConsole.deps.json
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\bin\Debug\net6.0\Example001_HElloConsole.runtimeconfig.json
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\bin\Debug\net6.0\Example001_HElloConsole.dll
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\bin\Debug\net6.0\Example001_HElloConsole.pdb
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.csproj.AssemblyReference.cache
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.GeneratedMSBuildEditorConfig.editorconfig
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.AssemblyInfoInputs.cache
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.AssemblyInfo.cs
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.csproj.CoreCompileInputs.cache
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.dll
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\refint\Example001_HElloConsole.dll
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.pdb
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\Example001_HElloConsole.genruntimeconfig.cache
+W:\YandexDisk\Организация работы над собой\Обучение GeekBrains\Полина\С#\Example001_HElloConsole\obj\Debug\net6.0\ref\Example001_HElloConsole.dll
